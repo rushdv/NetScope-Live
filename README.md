@@ -12,8 +12,8 @@
 
 ## 📸 Screenshots
 
-![Dashboard Screenshot](https://via.placeholder.com/800x400?text=Paste+Your+Screenshot+Here)
-*(Add your own screenshot here later!)*
+![Dashboard Screenshot](client/public/NetScope-SS.png)
+
 
 ---
 
