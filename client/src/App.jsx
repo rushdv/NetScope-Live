@@ -102,7 +102,7 @@ function App() {
         </div>
 
         {/* Right Col: The Terminal Log */}
-        <div className="bg-black border border-slate-800 rounded-lg p-4 flex flex-col font-mono text-xs h-full">
+        <div className="bg-black border border-slate-800 rounded-lg p-4 flex flex-col font-mono text-xs h-full overflow-y-auto">
           <h2 className="text-slate-400 mb-2 flex items-center gap-2 text-sm font-semibold uppercase tracking-wider border-b border-slate-800 pb-2">
             <Terminal size={16} /> Packet Stream
           </h2>
